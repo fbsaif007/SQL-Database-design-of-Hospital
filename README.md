@@ -1,2 +1,5 @@
 # SQL-Database-design-of-Hospital
-This repository contains final project of Advanced Database Management
+A hospital database is a comprehensive and organized collection of information related to a hospital's operations, patient care, medical procedures, and other healthcare-related activities. The database is designed to manage and store large amounts of data securely, accurately, and efficiently. It serves as a critical tool for healthcare providers to access and manage patient records, medical histories, diagnostic test results, and other relevant information to provide high-quality care.
+The hospital database includes various modules, such as patient registration, medical history, appointment scheduling, pharmacy, laboratory, radiology, billing, and more. The database can be accessed by authorized healthcare personnel, including doctors, nurses, administrative staff, and other medical professionals, to retrieve and update patient records, track medical procedures, and monitor the progress of patients' treatment.
+With the help of a hospital database, healthcare providers can improve patient care, reduce medical errors, increase efficiency, and better manage resources. It is a critical component of modern healthcare systems and plays a vital role in delivering quality healthcare services.
+
